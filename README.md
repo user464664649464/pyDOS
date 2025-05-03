@@ -31,7 +31,7 @@ python解释安装或直接使用releses的exe文件（注：请直接解压zip�
 本项目采用 [Apache 2.0] 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
 ## 下载
-<a href = "Full Changelog: https://github.com/user464664649464/pyDOS/commits/release">Release pyDOS version alfha 0.0.1</a>
+<a href = "https://github.com/user464664649464/pyDOS/commits/release">Release pyDOS version alfha 0.0.1</a>
 
 ## 联系方式
 - 项目开发群983591869，作者QQ330940895
