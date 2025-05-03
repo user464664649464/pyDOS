@@ -6,7 +6,7 @@
 
 ## 安装步骤
 
-python解释安装或直接使用releses的exe文件（注：请直接解压zip文件，由于pyinstaller的奇妙特性，需要那个文件夹工作（_internal），千万别删除！！！）
+python解释安装或直接使用releases的exe文件（注：请直接解压zip文件，由于pyinstaller的奇妙特性，需要那个文件夹工作（_internal），千万别删除！！！）
 - 请找到files.json，清空文件，然后复制这段数据至files.json：
 ```json
 { "name": "bin", "type": "directory", "children": [] }
