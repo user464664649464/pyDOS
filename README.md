@@ -1,8 +1,12 @@
-# pyDOS
+# pythonDOS
 
 ## 简介
 
 这是一个基于python的很精简的操作系统，为作者的一个奇思妙想。
+
+## 项目亮点
+
+<video src = "file:///D:/Users/%E5%8D%8E%E4%B8%BA/Desktop/pythonDOS/202505041745.mp4"></video>
 
 ## 安装步骤
 
