@@ -6,7 +6,7 @@
 
 ## 项目亮点
 
-<video src = "[202505041745.mp4](https://github.com/user464664649464/pyDOS/blob/main/202505041745.mp4)"></video>
+<video src = "https://github.com/user464664649464/pyDOS/blob/main/202505041745.mp4"></video>
 
 ## 安装步骤
 
