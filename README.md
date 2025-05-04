@@ -6,7 +6,7 @@
 
 ## 项目亮点
 
-<video src = "file:///D:/Users/%E5%8D%8E%E4%B8%BA/Desktop/pythonDOS/202505041745.mp4"></video>
+<video src = "202505041745.mp4"></video>
 
 ## 安装步骤
 
