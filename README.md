@@ -6,7 +6,7 @@
 
 ## 项目亮点
 
-<a href = "https://github.com/user464664649464/pyDOS/blob/main/202505041745.mp4">下载了解</video>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114452657609848&bvid=BV1grVizME2k&cid=29796402026&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 安装步骤
 
