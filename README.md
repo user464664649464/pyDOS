@@ -6,7 +6,7 @@
 
 ## 项目亮点
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114452657609848&bvid=BV1grVizME2k&cid=29796402026&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<video src="https://player.bilibili.com/player.html?isOutside=true&aid=114452657609848&bvid=BV1grVizME2k&cid=29796402026&p=1"></video>
 
 ## 安装步骤
 
