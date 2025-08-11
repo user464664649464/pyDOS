@@ -38,5 +38,5 @@ python解释安装或直接使用releases的exe文件（注：请直接解压zip
 <a href = "https://github.com/user464664649464/pyDOS/releases/tag/release">Release pyDOS version alfha 0.0.1</a>
 
 ## 联系方式
-- 项目开发群983591869，作者QQ330940895
+- 项目开发群948681540，作者QQ330940895
 - bilibili：粉丝不破千不改名
